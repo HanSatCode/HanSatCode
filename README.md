@@ -18,4 +18,7 @@
   <h2> Tools </h2><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/> 
+  
+  <h2> Skills </h2><br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hansatcode", url="https://solved.ac/hansatcode">
 </div>
