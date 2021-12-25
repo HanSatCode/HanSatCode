@@ -1,8 +1,10 @@
-## Hi There 👋 
-* 💻 High school student developer :D
-* 🌱 Studying JavaScript + Node.js + Algorithm
-* ✏️ Planning to enter the department of computer engineering in 2022
-* 📚 Planning to learn C (Advanced course) > Java (Android) > Kotlin (Android)
+## Hi There 👋 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanSatCode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)
+
+💻 High school student developer :D</br>
+🌱 Studying JavaScript + Node.js + Algorithm</br>
+🏛 Planning to enter the department of computer engineering in 2022</br>
+📚 Planning to learn C (Advanced course) > Java (Android) > Kotlin (Android)</br>
+
 ## Skills
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
@@ -34,4 +36,4 @@
 </div>
 
 ## Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSatCode&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSatCode&show_icons=true)
