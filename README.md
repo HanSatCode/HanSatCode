@@ -2,7 +2,7 @@
 
 💻 I'm student developer in YU :D</br>
 🌱 Studying JavaScript + Node.js + Algorithm</br>
-🏛 Planning to enter the department of computer engineering in 2022</br>
+🏛 Entered the department of computer engineering</br>
 📚 Planning to learn C (Advanced course) > Java (Android) > Kotlin (Android)</br>
 
 ## Skills
