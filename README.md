@@ -1,6 +1,6 @@
 ## Hi There 👋 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanSatCode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)
 
-💻 High school student developer :D</br>
+💻 I'm student developer in YU :D</br>
 🌱 Studying JavaScript + Node.js + Algorithm</br>
 🏛 Planning to enter the department of computer engineering in 2022</br>
 📚 Planning to learn C (Advanced course) > Java (Android) > Kotlin (Android)</br>
