@@ -26,7 +26,7 @@
         <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
     </a>
     <a href="https://github.com/HanSatCode/HutaoBot">
-        <img src="https://user-images.githubusercontent.com/50666621/184541674-971f135f-eb5d-4002-b97a-a20940e79268.png" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/50666621/184541713-db46cc20-3922-4f55-824c-6812732b631d.png" width="50" height="50"/>
     </a>
     <a href="https://github.com/HanSatCode/GenshinFloor">
         <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
