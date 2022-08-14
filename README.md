@@ -22,9 +22,6 @@
     <a href="https://github.com/HanSatCode/KonPlus">
         <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
     </a>
-    <a href="https://github.com/HanSatCode/KonPlus">
-        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
-    </a>
     <a href="https://github.com/HanSatCode/HutaoBot">
         <img src="https://user-images.githubusercontent.com/50666621/184541713-db46cc20-3922-4f55-824c-6812732b631d.png" width="50" height="50"/>
     </a>
