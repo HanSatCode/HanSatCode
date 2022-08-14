@@ -5,37 +5,37 @@
 🏛 Entered the computer science & engineering in YU</br>
 📚 Planning to learn C (Advanced course) > Java (Android) > Kotlin (Android)</br>
 
-## Skills
+## Programs
 <div>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
-</br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</br>
-
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white"/>
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-</br>
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-
+    <a href="https://github.com/HanSatCode/rmAppAuto">
+        <img src="https://user-images.githubusercontent.com/50666621/184539305-6e833d81-838e-481a-abeb-bad2f1572781.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/HCSAuto">
+        <img src="https://user-images.githubusercontent.com/50666621/184539308-6dbdc148-ca75-4e3d-a91a-14bf420c9653.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/Allegiance">
+        <img src="https://user-images.githubusercontent.com/50666621/184539311-ead1025d-ba8d-4828-a4d1-9efa7e5648c3.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/Bandoku">
+        <img src="https://user-images.githubusercontent.com/50666621/184539309-16c4c374-6d35-4392-a111-cc16c4cbd8d2.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/KonPlus">
+        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/KonPlus">
+        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/HutaoBot">
+        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/GenshinFloor">
+        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/HanSatCode/GangBukPay">
+        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
+    </a>
 </div>
 
 ## Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSatCode&show_icons=true)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansatcode)](https://solved.ac/hansatcode)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hansatcode&theme=warm)
