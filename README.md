@@ -29,7 +29,7 @@
         <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
     </a>
     <a href="https://github.com/HanSatCode/GangBukPay">
-        <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
+        <img src="https://user-images.githubusercontent.com/50666621/189384317-9e48f7e5-9160-4c2e-9eeb-d87d3683bfc7.png" width="50" height="50"/>
     </a>
 </div>
 
