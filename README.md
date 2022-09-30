@@ -16,13 +16,13 @@
     <a href="https://github.com/HanSatCode/Allegiance">
         <img src="https://user-images.githubusercontent.com/50666621/184539311-ead1025d-ba8d-4828-a4d1-9efa7e5648c3.png" width="50" height="50"/>
     </a>
-    <a href="https://github.com/HanSatCode/Bandoku">
+    <a href="https://github.com/HanSatCode/Archive/tree/main/Bandoku">
         <img src="https://user-images.githubusercontent.com/50666621/184539309-16c4c374-6d35-4392-a111-cc16c4cbd8d2.png" width="50" height="50"/>
     </a>
     <a href="https://github.com/HanSatCode/KonPlus">
         <img src="https://user-images.githubusercontent.com/50666621/184539396-29509d15-8afd-47f0-a8cb-fb6b8cfa8c50.png" width="50" height="50"/>
     </a>
-    <a href="https://github.com/HanSatCode/HutaoBot">
+    <a href="https://github.com/HanSatCode/Archive/tree/main/HuTaoBot">
         <img src="https://user-images.githubusercontent.com/50666621/184541713-db46cc20-3922-4f55-824c-6812732b631d.png" width="50" height="50"/>
     </a>
     <a href="https://github.com/HanSatCode/GenshinFloor">
