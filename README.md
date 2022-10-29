@@ -34,5 +34,5 @@
 </div>
 
 ## Status
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansatcode)](https://solved.ac/hansatcode)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansatcode)](https://solved.ac/profile/hansatcode)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hansatcode&theme=warm)
