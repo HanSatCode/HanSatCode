@@ -1,7 +1,3 @@
-<h1 align="center">
-    Begin @ 2025.03.03
-</h1>
-
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
