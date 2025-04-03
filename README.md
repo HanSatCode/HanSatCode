@@ -21,4 +21,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 📈 Status 📈
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansatcode&langs_count=10&layout=compact&theme=white)](https://github.com/hansatcode)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansatcode&langs_count=10&layout=compact&theme=white)](https://github.com/hansatcode)
+![???](https://github-readme-stats.vercel.app/api?username=hansatcode&count_private=true&show_icons=true&&theme=default)
