@@ -1,5 +1,5 @@
 ## Hi There 👋
-💻 Undergraduate-student developer in Yeungnam Univ. CSE :)</br>
+💻 My name is seok-hee Han, undergraduate-student developer in Yeungnam Univ. CSE :)</br>
 🌱 Studying C++, Open-Source Software (+ Security in Club '@Xpert')</br>
 🌳 Recently, I've been making software using my favorite things :D </br>
 
