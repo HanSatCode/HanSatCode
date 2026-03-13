@@ -1,7 +1,7 @@
 ## Hi There 👋
-💻 My name is seok-hee Han, undergraduate-student developer in Yeungnam Univ. CSE :)</br>
-🌱 Studying C++, Open-Source Software (+ Security in Club '@Xpert')</br>
-🌳 Recently, I've been making software using my favorite things :D </br>
+💻 My name is Seok-Hee Han, undergraduate-student developer in Yeungnam Univ. CSE :)</br>
+🌱 Studying Back-End, Artificial Intelligence, and Security @ Club '@Xpert'</br>
+🌳 I always make some softwares concerning my favorite things :D </br>
 
 ### 📚 Tech Stack 📚
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
